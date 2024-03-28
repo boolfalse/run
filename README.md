@@ -34,3 +34,4 @@
 #### Author:
 
 - [BoolFalse](https://boolfalse.com/)
+- [Strava Profile](https://www.strava.com/athletes/119269136)
