@@ -2,9 +2,9 @@
 ## The path to OC Marathon 2024
 
 
-#### Schedule:
+#### Marathon training
 
-- Marathon training plan:
+- The Schedule:
 
 | Weekly (sum) |    MON     |    TUE    |    WED     |    THU     |    FRI     |    SAT     |      SUN       |
 |:------------:|:----------:|:---------:|:----------:|:----------:|:----------:|:----------:|:--------------:|
@@ -15,7 +15,7 @@
 |     * mi     | 29<br>* mi | 3<br>* mi | 1<br>* mi  | 2<br>* mi  | 3<br>* mi  | 4<br>* mi  | ⭐ 5<br>26.2 mi |
 
 
-#### Running Events:
+#### Running Events
 
 - **RunSignUp:** [The 2024 Hoag OC Marathon Running Festival](https://runsignup.com/Race/CA/CostaMesa/The2024SDCCUOCMarathonRunningFestival)
 - **RunningTheUSA:** [OC Marathon Running Festival](https://runningintheusa.com/details/10508)
@@ -23,7 +23,7 @@
 - **RunGuides:** [Upcoming Los Angeles Runs](https://www.runguides.com/los-angeles/runs)
 
 
-#### Useful Resources:
+#### Useful Resources
 
 - [Walk Breaks for Faster Running](https://www.runnersworld.com/training/a20818428/walk-breaks-for-faster-running/)
 - [How to Progress From a Half Marathon to a Full](https://www.runnersworld.com/training/g20832570/how-to-progress-from-a-half-marathon-to-a-full/)
