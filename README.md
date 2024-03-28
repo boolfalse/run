@@ -2,6 +2,14 @@
 ## The path to OC Marathon 2024
 
 
+#### Running Events:
+
+- **RunSignUp:** [The 2024 Hoag OC Marathon Running Festival](https://runsignup.com/Race/CA/CostaMesa/The2024SDCCUOCMarathonRunningFestival)
+- **RunningTheUSA:** [OC Marathon Running Festival](https://runningintheusa.com/details/10508)
+- **OCMarathon:** [Official Website](https://ocmarathon.com/)
+- **RunGuides:** [Upcoming Los Angeles Runs](https://www.runguides.com/los-angeles/runs)
+
+
 #### Schedule:
 
 - Marathon training plan:
